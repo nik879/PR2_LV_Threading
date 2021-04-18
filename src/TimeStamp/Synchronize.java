@@ -1,4 +1,4 @@
-package PrimeChecker;
+package TimeStamp;
 
 import java.util.Date;
 import java.util.Scanner;

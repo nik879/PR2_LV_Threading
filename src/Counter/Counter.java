@@ -1,4 +1,4 @@
-package PrimeChecker;
+package Counter;
 
 public class Counter implements Runnable{
     static int counter,counter2;
